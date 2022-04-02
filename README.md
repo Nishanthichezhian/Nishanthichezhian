@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishanthichezhian
+- 👋 Hi, I’m @Nisha
 - 👀 I’m interested in creating Automation frameworks from scratch - FrontEnd & Backend
 - 🌱 I’m currently learning API testing and Cypress frameworks
 - 💞️ I’m looking to collaborate on playwright and K6 performance testing
